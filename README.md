@@ -3,7 +3,7 @@
 Pour les langagues j'au utiliser HTML , CSS , JS , PHP.
 j'ai aussi utiliser un template qui est disponible sur le site colorlib pour avoir un joli formulaire.
 pour la base de donnée : MySQL
-# comment l'utuliser:
+# comment l'utiliser:
 d'abort l'outil neccesaire pour pouvoir l'exécuter c'est le wampserver.
 premierement il faut ouvrire la bdd que j'ai mis dans le dossier "base de donne" avec phpmyadmin , et puis mettre le dossier "login" tout entier dans le repertoir www aprés lancer l'exécution une fenetre de connction sera afficher.
 # pour expliquer un peu le fonctionnement :
